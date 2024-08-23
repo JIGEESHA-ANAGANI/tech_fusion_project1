@@ -2,8 +2,8 @@
 ![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/dannycrief/python-voice-assistant)
 ![GitHub issues](https://img.shields.io/github/issues/dannycrief/python-voice-assistant)
 ![GitHub last commit](https://img.shields.io/github/last-commit/dannycrief/python-voice-assistant)
-- Sarah Voice Assistant is a Python voice assistant project on SpeechRecognition, pyttsx3 and GoogleAPI
-- Sarah knows to read data from your Google Calendar (from first running you'll be redirected to Google login page),
+- JIGS Voice Assistant is a Python voice assistant project on SpeechRecognition, pyttsx3 and GoogleAPI
+- JIGS knows to read data from your Google Calendar (from first running you'll be redirected to Google login page),
 read email from your Gmail, open browsers, write data to file .txt using notepad.exe and many interesning things 😉
 
 ## Installation
@@ -17,7 +17,7 @@ myvenv_name\Scripts\activate
 ```
 - Linux: at this moment does not support on Linux and macOS
 
-- To make Sarah Voice Assistant work correctly you'll be need to PyAudio library
+- To make JIGS Voice Assistant work correctly you'll be need to PyAudio library
 - Check you python version
 ```bash
 python --version
