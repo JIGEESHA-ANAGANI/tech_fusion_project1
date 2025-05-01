@@ -1,7 +1,5 @@
 # tech_fusion_project1# jigeesha31 Voice Assistant
-![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/dannycrief/python-voice-assistant)
-![GitHub issues](https://img.shields.io/github/issues/dannycrief/python-voice-assistant)
-![GitHub last commit](https://img.shields.io/github/last-commit/dannycrief/python-voice-assistant)
+
 - JIGS Voice Assistant is a Python voice assistant project on SpeechRecognition, pyttsx3 and GoogleAPI
 - JIGS knows to read data from your Google Calendar (from first running you'll be redirected to Google login page),
 read email from your Gmail, open browsers, write data to file .txt using notepad.exe and many interesning things 😉
